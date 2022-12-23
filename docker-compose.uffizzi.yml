@@ -37,7 +37,6 @@ services:
           resources:
             limits:
               memory: 1000M
-        #entrypoint: ["/bin/sh", "-c", "sleep 5;  node ./bin/parse-server; export UFFIZZI_URL"] #sleep few seconds for postgres to come up
   dashboard:
         image: "${PARSE_DASHBOARD_IMAGE}"
         ports:
