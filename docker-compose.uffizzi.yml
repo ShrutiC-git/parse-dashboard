@@ -70,7 +70,7 @@ services:
     image: nginx:alpine
     volumes:
       - ./nginx-uffizzi:/etc/nginx
-      # - ./nginx-uffizzi/html:/usr/share/nginx/html
+      - ./nginx-uffizzi/html:/usr/share/nginx/html
 
 volumes:
   postgres_data:
