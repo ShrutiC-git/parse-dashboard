@@ -68,7 +68,7 @@ export default class AccountOverview extends React.Component {
 
   renderForm({fields}) {
     let accountInfoFields = <Fieldset
-      legend='Account Info'
+      legend='Account Info -'
       description='Update the personal information linked to this account.'>
       <Field
         labelWidth={DEFAULT_LABEL_WIDTH}

@@ -1,6 +1,6 @@
 ![parse-repository-header-dashboard](https://user-images.githubusercontent.com/5673677/138276825-9b430df8-b1f6-41d7-af32-4852a8fbc143.png)
 
----
+--------------------------
 
 [![Build Status](https://github.com/parse-community/parse-dashboard/workflows/ci/badge.svg?branch=alpha)](https://github.com/parse-community/parse-dashboard/actions?query=workflow%3Aci+branch%3Aalpha)
 [![Build Status](https://github.com/parse-community/parse-dashboard/workflows/ci/badge.svg?branch=beta)](https://github.com/parse-community/parse-dashboard/actions?query=workflow%3Aci+branch%3Abeta)
