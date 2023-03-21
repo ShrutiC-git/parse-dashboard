@@ -64,7 +64,6 @@ services:
           resources:
             limits:
               memory: 1000M
-
   nginx:
     image: nginx:alpine
     volumes:
